@@ -10,7 +10,7 @@ def copo_de_nieve_koch(tortuga, orden, tamaño):
 
 # Configuración inicial
 ventana = turtle.Screen()
-ventana.bgcolor("cyan")  # Corregido a "white"
+ventana.bgcolor("cyan") 
 ventana.title("Copo de nieve")
 
 tortuga_koch = turtle.Turtle()
